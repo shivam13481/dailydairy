@@ -1,0 +1,4 @@
+22/6/2026
+Today we learned the basics of Python language that included what is python, it's data types, variable declaration, basic syntax and how to print statements.
+  Mentor provided one file that contains the documentation of python and its syntax. After knowing about basics we were assgined with one assignment that covered all the learned topics and we did coding of the given questions.
+  That assignment was having 43 programs half of which were done in class and remaining were given for home task.

@@ -1,0 +1,2 @@
+22/6/2026
+Today we learned about Operators in Python. The mentor explained types of operators including arithmetic, comparison, logical, assignment and membership operators with examples. We practiced writing different programs using these operators and solved assignment questions to understand how operators work . At the end of the class, we were given a few practice questions to complete as homework.

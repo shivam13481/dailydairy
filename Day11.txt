@@ -1,0 +1,2 @@
+2/6/2026
+Today we learned about Exception Handling in Python. The mentor explained how runtime errors can be handled using try, except, else and finally blocks. We practiced programs for handling common exceptions like division by zero and invalid user input. The session also included debugging exercises and revision of previous topics, which helped us understand how exception handling makes Python programs more reliable and user-friendly.

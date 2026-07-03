@@ -1,0 +1,4 @@
+26/6/2026
+Today we learned about Conditional Statements and Looping Statements in Python. 
+The mentor explained if, if-else, if-elif-else, for loop and while loop with practical examples. 
+We solved different tasks and assignments in the class.

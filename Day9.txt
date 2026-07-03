@@ -1,0 +1,4 @@
+29/6/2026
+Today we studied Python Data Structures including Lists, Tuples, Sets and Dictionaries. 
+The mentor explained the characteristics of each data structure and demonstrated different operations such as adding, deleting, updating and accessing elements. 
+We practiced several examples and solved assignments based on these concepts.

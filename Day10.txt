@@ -1,0 +1,2 @@
+1/6/2026
+Today we learned about File Operations in Python. The mentor explained how files are used to store data permanently and demonstrated different file operations such as creating, opening, reading, writing and appending data to a file. We learned about various file modes including r, w, a and x, and understood when each mode should be used. The mentor also explained the importance of closing files properly and introduced the with open() statement for efficient file handling. We practiced several programs based on file operations.

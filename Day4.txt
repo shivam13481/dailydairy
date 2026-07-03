@@ -1,0 +1,5 @@
+25/6/2026
+Today we learned about functions in python there are 2 types of functions.
+1st is built in function or 2nd is user defined function.
+def keyword is use to define the function. We complete the task given by mentor
+make a simple calculator with functions and complete the assignments question.

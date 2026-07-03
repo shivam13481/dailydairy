@@ -1,0 +1,4 @@
+30/6/2026
+Today we continued learning about List Functions, Recursion, Basics of Object-Oriented Programming oops, Modules and Inheritance. 
+The mentor explained commonly used list methods and the concept of recursion with suitable examples. We were also introduced to classes, objects, modules and inheritance in Python. 
+We do some tasks with random module. Create a rock,paper, scissor game with random module and also create number guess game.

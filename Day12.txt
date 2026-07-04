@@ -1,0 +1,4 @@
+3/7/2026
+Today, I learned about Numbers in Python. I studied the different numeric data types such as int (integer), float (decimal), and complex (complex number). I understood how to store numbers in variables and perform arithmetic operations like addition, subtraction, multiplication, division, modulus, exponent, and floor division.
+I also learned how to convert one numeric type to another using functions like int(), float(), and complex(). The concepts became clearer after practicing simple examples, such as calculating the sum of two numbers, finding the average, and using different arithmetic operators. These examples helped me understand how Python works with numeric values in real programs.
+Overall, today's class improved my understanding of Python number concepts and gave me confidence in performing mathematical calculations using Python.

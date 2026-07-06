@@ -1,0 +1,2 @@
+6/7/2026
+Today we completed the NumPy assignment and revised the concepts of NumPy arrays. We practiced creating 1D and 2D arrays, identity matrices, random arrays, and evenly spaced arrays. We learned how to reshape arrays, perform indexing and slicing, and apply mathematical and statistical operations. We also tested each program and understood the output of different NumPy functions. This practice improved our understanding of NumPy and prepared us for learning Pandas in the next class.

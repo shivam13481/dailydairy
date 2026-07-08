@@ -1,0 +1,9 @@
+8/7/2026
+
+Topics Covered
+
+Today, we practiced programs using NumPy, Pandas, and Matplotlib. The session focused on applying the concepts learned in previous classes through practical exercises.
+
+We performed tasks such as creating and reshaping NumPy arrays, performing arithmetic operations, working with CSV files and DataFrames, filtering, sorting, grouping, and merging data, handling missing values, and creating different types of graphs using Matplotlib. We also learned how to customize graphs by adding titles, labels, grids, and legends.
+
+The practical exercises helped us improve our understanding of data analysis and visualization. By the end of the session, we were more confident in using NumPy for numerical computations, Pandas for data manipulation, and Matplotlib for presenting data graphically.

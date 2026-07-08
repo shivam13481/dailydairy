@@ -1,0 +1,4 @@
+7/7/2026
+Matplotlib
+
+Today we learned about Matplotlib, which is a Python library used for data visualization. It helps us present data in the form of graphs and charts, making it easier to understand trends and comparisons. We learned how to import the library using "import matplotlib.pyplot as plt" and created a simple line graph using sample data. We also understood the use of labels, titles, legends, and grid to make graphs more informative. This session helped me understand how data can be represented visually, which is very useful in data analysis and Python programming.

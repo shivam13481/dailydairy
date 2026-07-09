@@ -1,0 +1,6 @@
+Date: 09/07/2026
+Today I learned about Data Visualization in Python using the Matplotlib library. First, I imported matplotlib.pyplot as plt and created different types of graphs using the plot() function. I also learned how to customize graphs by changing colors, markers, line styles, and adding titles, legends, and axis labels.
+In today's practical session, I completed a Star Shape Plot task by connecting different coordinate points using plt.plot(). This task helped me understand how coordinates work in plotting and how different shapes can be created using Python.
+Apart from the star plot, I also completed a Bar Graph task using plt.bar(). I displayed values on the bars using plt.bar_label() and also learned how to add text inside the bars using plt.text(). This helped me understand how bar graphs are used to compare different categories.
+I also performed another task in which I created a Multiple Line Plot with different colors, line styles, labels, legends, and axis titles. This improved my understanding of graph formatting and data visualization techniques.
+Overall, today's class was practical and helped me gain confidence in creating and customizing different types of graphs using Matplotlib.

@@ -1,0 +1,11 @@
+Date: 10/07/2026
+Today I learned about Matplotlib Subplots and their applications. The topics covered in today's class were:
+Introduction to Subplots in Matplotlib.
+Creating multiple graphs in a single figure using plt.subplots().
+Understanding Figure (fig) and Axes (axs) objects.
+Creating a 2 × 2 subplot layout.
+Plotting a graph in a specific subplot using axs[row, column].
+Setting X-axis labels using set_xlabel().
+Changing the figure size using the figsize parameter.
+Understanding how different graphs can be displayed together in one window for better comparison.
+Today's class helped me understand how to organize multiple plots in a single figure and customize individual graphs using Matplotlib.

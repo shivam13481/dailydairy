@@ -1,0 +1,13 @@
+Date: 11/07/2026
+Today we started learning the Seaborn library in Python, which is used for creating attractive and statistical data visualizations. First, we imported Seaborn using import seaborn as sns and Matplotlib using import matplotlib.pyplot as plt. We learned how to load different built-in datasets such as Iris, Tips, FMRI, and Dots using sns.load_dataset().
+During the practical session, we created different types of plots using Seaborn. We learned to create Relational Plots (sns.relplot) for scatter and line graphs by using parameters like x, y, kind, hue, style, size, and col to customize the visualization. We also created a Distribution Plot (sns.displot) with bins, kde, and rug options to understand data distribution. After that, we studied Linear Regression Plot (sns.lmplot) to analyze the relationship between total_bill and tip, and finally created a Categorical Swarm Plot (sns.catplot) to compare the total bill for different days and smoker categories. These activities helped us understand how Seaborn makes data visualization simple, attractive, and informative.
+Topics Covered
+Introduction to Seaborn
+sns.load_dataset()
+Iris, Tips, FMRI and Dots datasets
+sns.relplot() (Scatter & Line Plot)
+sns.displot()
+sns.lmplot()
+sns.catplot()
+Parameters: x, y, kind, hue, style, size, col, bins, kde, rug
+Data Visualization using Seaborn

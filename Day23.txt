@@ -1,0 +1,7 @@
+14-07-2026
+
+Topics Covered
+
+Today, we had a doubt-clearing session on the topics covered during the training. Our mentor revised the important concepts from previous sessions and answered the doubts raised by the students.
+
+During the session, we discussed questions related to Python, NumPy, Pandas, Matplotlib, Exploratory Data Analysis (EDA), Data Cleaning, and Data Analysis. The mentor explained the concepts with examples and provided guidance on solving programming problems more efficiently.

@@ -1,0 +1,7 @@
+13-07-2026
+
+Topics Covered
+
+Today, we learned about Data Analysis and Data Cleaning, which are important steps in preparing data for Machine Learning. Our mentor explained how to inspect a dataset, identify data quality issues, and clean the data to make it suitable for analysis and model building.
+
+During the practical session, we performed various data analysis and cleaning tasks on a dataset.

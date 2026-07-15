@@ -1,0 +1,8 @@
+15/07/2026
+Topic covered today
+I learned four important Machine Learning algorithms: Linear Regression, Logistic Regression, Decision Tree, and Random Forest.
+First, I studied Linear Regression to predict continuous values such as salary and learned how to evaluate the model using the R² Score.
+Next, I implemented Logistic Regression on the Cancer Patient Dataset to predict the patient's risk level (Low, Medium, or High) and checked the model's accuracy.
+After that, I learned the Decision Tree algorithm for both classification and regression tasks and understood how it makes predictions based on decision rules.
+Finally, I practiced the Random Forest algorithm for both classification and regression. I learned that it combines multiple decision trees to improve prediction accuracy and reduce overfitting.
+Overall, today's session helped me understand the implementation and real-world applications of these supervised machine learning algorithms.

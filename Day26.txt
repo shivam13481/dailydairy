@@ -1,0 +1,11 @@
+17/7/2026
+Today, I learned about Handling Missing Data and Data Imputation in Pandas. First, I checked the count of null values in a dataset using data.isnull().sum(). I understood why missing values occur and how they affect machine learning models.
+​I practiced different techniques to handle missing values based on data types. For numerical columns, I learned how to fill missing values with the mean using fillna() and np.where(). For categorical columns, I learned how to handle missing data using mode(), string replacement (like 'unknown'), and forward fill (ffill()).
+​During the practical session, I also encountered common errors like TypeError during inplace modifications, warning messages regarding Pandas 3.0 updates, and learned how to select features by dropping target columns using data.drop().
+​Topics Covered:
+​Missing Value Identification (isnull().sum())
+​Data Imputation using Mean, Mode, and Forward Fill (fillna, ffill)
+​Conditional Data Transformation using np.where()
+​Handling Categorical vs Numerical Missing Data
+​Feature and Target Separation (data.drop())
+​Troubleshooting Common Pandas Warnings and Type Errors

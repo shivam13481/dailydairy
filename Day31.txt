@@ -1,0 +1,13 @@
+Date: 22 July 2026
+Topic Covered: Artificial Neural Networks (ANN) & Data Preprocessing
+📌 Highlights of the Day
+Dataset Exploration: Worked on dataset processing using the Iris and Wine classification datasets.
+Feature Engineering:
+Applied StandardScaler for scaling feature variables to ensure uniform input data.
+Used LabelEncoder and to_categorical for one-hot encoding target labels.
+Model Building: Built a multi-layer Deep Learning model using Keras Sequential() with Dense layers, applying ReLU for hidden layers and Softmax for the output layer.
+Error Analysis & Fix: Identified that using loss='mae' or 'mse' on multi-class targets produces continuous errors; updated the loss function to categorical_crossentropy for optimal performance.
+Model Prediction & Output Mapping:
+Fed scaled new sample data into the trained model to generate class probability vectors.
+Used np.argmax() to identify the class index with the highest probability.
+Applied inverse_transform() to map the numeric predicted index back to the human-readable class label (e.g., 'setosa').

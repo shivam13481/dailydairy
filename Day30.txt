@@ -1,0 +1,6 @@
+
+Date: 21/07/2026
+Today I learned about SMS Spam Detection using Machine Learning. I understood how to load and explore a dataset using the Pandas library and identify the input and output features required for model training.
+I learned about CountVectorizer, which is used to convert text messages into numerical vectors so that machine learning algorithms can process textual data. I also learned how to split the dataset into training and testing sets using train_test_split().
+During the practical session, I learned the implementation of Gaussian Naive Bayes and Bernoulli Naive Bayes algorithms for text classification. I also learned how to evaluate the model using accuracy_score() and test it with custom input messages.
+At the end of the session, I learned the basics of Deep Learning, its different types, and an introduction to Artificial Neural Networks (ANN). The practical implementation of ANN will be covered in the next class.

@@ -1,0 +1,12 @@
+(23/07/2026)
+Today, I continued learning Artificial Neural Network (ANN). I learned how to create an ANN model using the Sequential model with an Input Layer (3 features), Hidden Layer 1 (16 neurons, ReLU activation), Hidden Layer 2 (8 neurons, ReLU activation), and an Output Layer (1 neuron, Linear activation). I also learned how to compile the model using the Adam optimizer, evaluate it using Loss, MAE, and R² Score, compare the actual and predicted values, and predict the output for a new customer.
+After that, I was introduced to the basics of Convolutional Neural Network (CNN). I learned about its architecture, including the Input Layer, Convolution Layer, ReLU Activation, Pooling Layer, Flatten Layer, Dense Layer, and Output Layer, and understood how CNN is used for image classification and feature extraction.
+Real-life Applications of CNN (Convolutional Neural Network):
+Face Recognition – Used in mobile face unlock and attendance systems.
+Self-Driving Cars – Detects traffic signs, vehicles, pedestrians, and road lanes.
+Medical Image Analysis – Identifies diseases from X-rays, MRI, and CT scans.
+Handwritten Digit Recognition – Recognizes handwritten numbers, such as on bank cheques.
+Security and Surveillance – Detects people, faces, and suspicious activities in CCTV footage.
+Image Classification – Classifies images into different categories, such as cats and dogs.
+Agriculture – Detects plant diseases and crop health from images.
+Manufacturing – Finds defects or faults in products during quality inspection.
